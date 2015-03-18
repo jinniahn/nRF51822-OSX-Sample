@@ -1,0 +1,30 @@
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.map
+
+*.jlink
+*.log
+
+build/*
+obj/*
+bin/*
+
+.DS_Store
+
+lib/s110_nrf51822_4.0.0-2.beta
+lib/s110_nrf51822_4.0.0-2.beta/*
